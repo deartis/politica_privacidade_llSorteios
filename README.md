@@ -11,7 +11,7 @@ Ao usar o aplicativo **LL Sorteios**, podemos coletar as seguintes informações
 * E-mail
 * Telefone
 * Cidade
-* Senha
+* Senha 
 Essas informações são coletadas com o objetivo de realizar sorteios e para comunicar notícias e atualizações relacionadas ao aplicativo. Seu nome, e-mail, e telefone podem ser usados para entrar em contato em caso de ganho em algum sorteio.
 
 *Uso de Informações*
